@@ -5,6 +5,7 @@ Self-distribution via Usb, KeyLogger, Installation and launch of files .exe on a
 # Gui #
 ![SWKGui2](https://user-images.githubusercontent.com/76472049/117755017-a96e5580-b245-11eb-968e-04966ec45ca6.png)
 
+# Actions #
 To choose which user to interact with select it in the column on the left
 
 **Active and Disable** - enable and disable the KeyLogger  
