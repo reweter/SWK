@@ -1,0 +1,4 @@
+UserName: DESKTOP-PSRLDMB
+Ip: 94.73.246.17
+Path: C:\Users\Dima\source\repos\SWK\SWK-Server\Data\Users\DESKTOP-PSRLDMB
+ConnectTime: 03.15 08.05.2021

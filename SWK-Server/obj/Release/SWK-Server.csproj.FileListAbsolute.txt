@@ -1,0 +1,10 @@
+C:\Users\Dima\source\repos\SWK\SWK-Server\bin\Release\SWK-Server.exe.config
+C:\Users\Dima\source\repos\SWK\SWK-Server\bin\Release\SWK-Server.exe
+C:\Users\Dima\source\repos\SWK\SWK-Server\bin\Release\SWK-Server.pdb
+C:\Users\Dima\source\repos\SWK\SWK-Server\obj\Release\SWK-Server.csprojAssemblyReference.cache
+C:\Users\Dima\source\repos\SWK\SWK-Server\obj\Release\SWK_Server.MainForm.resources
+C:\Users\Dima\source\repos\SWK\SWK-Server\obj\Release\SWK_Server.Properties.Resources.resources
+C:\Users\Dima\source\repos\SWK\SWK-Server\obj\Release\SWK-Server.csproj.GenerateResource.cache
+C:\Users\Dima\source\repos\SWK\SWK-Server\obj\Release\SWK-Server.csproj.CoreCompileInputs.cache
+C:\Users\Dima\source\repos\SWK\SWK-Server\obj\Release\SWK-Server.exe
+C:\Users\Dima\source\repos\SWK\SWK-Server\obj\Release\SWK-Server.pdb

@@ -1,0 +1,7 @@
+C:\Users\Dima\source\repos\SWK\SWK\bin\Debug\SWK.exe.config
+C:\Users\Dima\source\repos\SWK\SWK\bin\Debug\SWK.exe
+C:\Users\Dima\source\repos\SWK\SWK\bin\Debug\SWK.pdb
+C:\Users\Dima\source\repos\SWK\SWK\obj\Debug\SWK.csproj.CoreCompileInputs.cache
+C:\Users\Dima\source\repos\SWK\SWK\obj\Debug\SWK.exe
+C:\Users\Dima\source\repos\SWK\SWK\obj\Debug\SWK.pdb
+C:\Users\Dima\source\repos\SWK\SWK\obj\Debug\SWK.csprojAssemblyReference.cache
