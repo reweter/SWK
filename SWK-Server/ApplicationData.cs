@@ -11,6 +11,5 @@ namespace SWK_Server
         public static Server server;
 
         public static string UsersDataPath = @"C:\SWK-Server\Data\Users";
-        public static string StaticDataPath = @"C:\SWK-Server\Data\Static.txt";
     }
 }
