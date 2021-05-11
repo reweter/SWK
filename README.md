@@ -16,4 +16,5 @@ To choose which user to interact with select it in the column on the left
 **Plus** - Shows all files in a directory at a specific path with additional data about the files. The path to the directory should be specified in the input field  
 **DownloadFile** - Downloads a file at a specific path from the remote machine. In the input field, specify the path to the file. In the input field on the right you need to specify under what name the file will be saved on your machine (the file name is the extension "data.txt")
 
-
+# Settings #
+To correctly save the data received from users in the 'ApplicationData' script, change the value of 'UserDataPath', which stores the path to the folder where the user data will be saved
